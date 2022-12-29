@@ -79,3 +79,136 @@ margin-top:300px ;
 white-space: nowrap;
 text-decoration: none;
 }
+.email{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 13px 9px 11px;
+  gap: 8px;
+
+  position: absolute;
+  width: 135px;
+  height: 34px;
+  margin-left: 45px;
+  margin-top: 320px;
+
+  /* white */
+
+  background: #FFFFFF;
+  /* gray/300 */
+
+  border: 1px solid #D1D5DB;
+  /* shadow/sm */
+
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+/* identical to box height, or 114% */
+
+
+/* gray/700 */
+
+color: #374151;
+  
+}
+.linkdin{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 13px 9px 11px;
+  gap: 8px;
+
+  position: absolute;
+  width: 135px;
+  height: 34px;
+  margin-left: 210px;
+  margin-top: 320px;
+
+  background: #5093E2;
+  /* shadow/sm */
+
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+
+
+
+  
+}
+.about h1{
+  position: absolute;
+width: 242.71px;
+height: 21px;
+margin-left: 45px;
+margin-top: 360px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #F5F5F5;
+}
+.about p{
+  position: absolute;
+width: 330px;
+height: 61px;
+margin-left: 45px;
+margin-top: 380px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 150%;
+/* or 15px */
+
+
+color: #DCDCDC;
+}
+.interest h1{
+  position: absolute;
+  width: 242.71px;
+  height: 21px;
+  margin-left: 45px;
+  margin-top: 430px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 150%;
+  /* or 24px */
+  
+  
+  color: #F5F5F5;
+}
+.interest p{
+  position: absolute;
+  width: 330px;
+  height: 61px;
+  margin-left: 45px;
+  margin-top: 450px;
+  
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 150%;
+  /* or 15px */
+  
+  
+  color: #DCDCDC;
+}
